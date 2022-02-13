@@ -1,5 +1,5 @@
 
-IIFE function
+// IIFE function
 let somthing =20 ;
 (function(){
    somthing =10 ;
@@ -12,7 +12,7 @@ let somthing =20 ;
 
 console.log(`the value of somthing outside iife function ${somthing}`);
 
-ES-6 String method
+// ES-6 String method
 
 let myName='yasin arfat';
 
@@ -78,7 +78,7 @@ let mainFunc= ()=>{
 }
  mainFunc() 
 
-USING REST PERAMETER
+// USING REST PERAMETER
 let someFunc = (a,b,...c)=>{
 
 
